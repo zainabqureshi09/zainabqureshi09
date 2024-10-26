@@ -5,4 +5,4 @@ Hello! I'm a passionate web developer specializing in HTML5, CSS3, JavaScript, a
 
 🔹 Core Technologies: HTML5, CSS3, JavaScript, TypeScript
 🔹 Framework: Next.js for seamless SSR and SSG
-🔹 Development Goals: Continuous improvement in JavaScript and exploring advanced Next.js techniques for scalable web apps.
+🔹 Development Goals: Continuous improvement in JavaScript and exploring advanced Next.js techniques for scalable web apps. 
