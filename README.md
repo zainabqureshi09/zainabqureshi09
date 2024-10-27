@@ -5,7 +5,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ashutosh-pmishra&label=Profile%20views&color=0e75b6&style=flat" alt="ashutosh-pmishra" /> </p>
 
-- 👨‍💻 All of my projects are available at [https://www.linkedin.com/in/muskan-siraj-ba72632ba](https://www.linkedin.com/in/zainab-ayaz-3081482b5/)
+- 👨‍💻 All of my projects are available at [Linkedin](https://www.linkedin.com/in/zainab-ayaz-3081482b5/)
 
 - ⚡ Fun fact **I am funny😅**
 
