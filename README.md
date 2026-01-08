@@ -29,7 +29,7 @@
 
 ## 🧠 Identity: Who I Am
 
-I am **Zainab Ayaz** — a **Mind Hacker**, developer, and builder of *intelligent digital systems*.
+I am **Zainab Ayaz** — a developer, and builder of *intelligent digital systems*.
 
 I blend:
 - 💡 **Core logic & systems thinking**
