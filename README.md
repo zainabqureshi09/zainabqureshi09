@@ -1,117 +1,135 @@
-<h1 align="center">⚡ Hi, I'm Zainab Ayaz ⚡</h1>
-<h3 align="center">
-  Cyberpunk-minded Developer • Code Crafter • Future Tech Explorer
-</h3>
+<!-- ========================= -->
+<!--   DIGITAL IDENTITY CARD   -->
+<!-- ========================= -->
+
+<h1 align="center">
+  ⚡ ZAINAB AYAZ ⚡
+</h1>
 
 <p align="center">
-  <em>
-    I build with intention, learn relentlessly, and code for the future.
-  </em>
+  <strong>Frontend Developer • Cyberpunk Mindset • Future Builder</strong>
 </p>
+
+<p align="center">
+  <em>Code is my language. The web is my canvas.</em>
+</p>
+
+<br/>
+
+<!-- ========================= -->
+<!--   VISUAL ANCHOR           -->
+<!-- ========================= -->
 
 <img
   align="right"
-  alt="Cyberpunk Coding Girl"
-  width="420"
+  width="380"
+  alt="Cyberpunk Developer"
   src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif"
 />
 
-<p align="left">
+<!-- ========================= -->
+<!--   DIGITAL PERSONA         -->
+<!-- ========================= -->
+
+### 🧠 Digital Persona
+
+I’m a **frontend developer in constant evolution**, focused on building
+interfaces that are **clean, responsive, and intentional**.
+
+I don’t chase hype.  
+I build **strong fundamentals**, sharpen my logic, and grow layer by layer.
+
+I believe:
+- Code should **communicate**, not confuse  
+- Design should **serve the user**, not distract  
+- Growth should be **consistent, not rushed**
+
+---
+
+<!-- ========================= -->
+<!--   SKILL MATRIX            -->
+<!-- ========================= -->
+
+### ⚙️ Skill Matrix
+
+> **Core Systems I Work With**
+
+<table>
+  <tr>
+    <td><strong>Structure</strong></td>
+    <td>HTML5 (semantic, accessible layouts)</td>
+  </tr>
+  <tr>
+    <td><strong>Style</strong></td>
+    <td>CSS3 (responsive design, Flexbox, UI precision)</td>
+  </tr>
+  <tr>
+    <td><strong>Logic</strong></td>
+    <td>JavaScript (ES6+, DOM, interactions)</td>
+  </tr>
+</table>
+
+<br/>
+
+<p>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" width="42"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" width="42"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="38"/>
+</p>
+
+---
+
+<!-- ========================= -->
+<!--   CURRENT EVOLUTION       -->
+<!-- ========================= -->
+
+### 🧬 Current Evolution
+
+Right now, I’m focused on:
+
+- Strengthening **JavaScript fundamentals**
+- Building **interactive frontend projects**
+- Improving **UI/UX thinking**
+- Preparing for **modern frameworks**
+- Developing a **professional developer mindset**
+
+This phase is about **depth**, not speed.
+
+---
+
+<!-- ========================= -->
+<!--   SIGNAL LINKS            -->
+<!-- ========================= -->
+
+### 📡 Signal Links
+
+<p>
+  <a href="https://www.linkedin.com/in/zainab-ayaz-3081482b5/" target="_blank">
+    LinkedIn ↗
+  </a>
+</p>
+
+<p>
   <img
-    src="https://komarev.com/ghpvc/?username=zainabayaz&label=Profile%20Views&color=ff2cdf&style=flat"
-    alt="profile views"
+    src="https://komarev.com/ghpvc/?username=zainabayaz&label=Profile%20Signal&color=ff2cdf&style=flat"
+    alt="profile signal"
   />
 </p>
 
 ---
 
-### 🧠 About Me
+<!-- ========================= -->
+<!--   CLOSING SIGNATURE       -->
+<!-- ========================= -->
 
-- 💻 Passionate **Frontend & Future-Tech Developer**
-- 🌐 Interested in **Modern Web, AI-driven systems & emerging technologies**
-- 🚀 Focused on writing **clean, scalable, and meaningful code**
-- 🎯 Always evolving — **learning today what builds tomorrow**
-
----
-
-### 🔥 What I Do
-
-- Build responsive, modern web interfaces  
-- Learn and apply real-world development practices  
-- Explore futuristic technologies with a creator mindset  
-- Turn ideas into digital experiences  
-
----
-
-### 🌐 Projects & Work
-
-- 👩‍💻 Explore my work and journey on  
-  **LinkedIn →**  
-  <a href="https://www.linkedin.com/in/zainab-ayaz-3081482b5/" target="_blank">
-    linkedin.com/in/zainab-ayaz
-  </a>
-
----
-
-### ⚡ Fun Fact
-
-> I believe great code should be **powerful, readable, and a little rebellious** 😄
-
----
-
-### 🤝 Connect With Me
-
-<p align="left">
-  <a href="https://www.linkedin.com/in/zainab-ayaz-3081482b5/" target="_blank">
-    <img
-      align="center"
-      src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg"
-      alt="LinkedIn"
-      height="30"
-      width="40"
-    />
-  </a>
-</p>
-
----
-
-### 🛠️ Tech Arsenal
-
-<p align="left">
-  <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer">
-    <img
-      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg"
-      alt="HTML5"
-      width="45"
-      height="45"
-    />
-  </a>
-
-  <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer">
-    <img
-      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg"
-      alt="CSS3"
-      width="45"
-      height="45"
-    />
-  </a>
-
-  <a
-    href="https://developer.mozilla.org/en-US/docs/Web/JavaScript"
-    target="_blank"
-    rel="noreferrer"
-  >
-    <img
-      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg"
-      alt="JavaScript"
-      width="40"
-      height="40"
-    />
-  </a>
-</p>
-
----
+<hr/>
 
 <p align="center">
-  <strong>⚙️ Code the future. Design the present. ⚙️</strong>
+  <strong>
+    “Build quietly. Let the code speak.”  
+  </strong>
+</p>
+
+<p align="center">
+  ⚙️ <em>System online. Learning in progress.</em>
 </p>
