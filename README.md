@@ -1,135 +1,127 @@
-<!-- ========================= -->
-<!--   DIGITAL IDENTITY CARD   -->
-<!-- ========================= -->
+<!-- =================== -->
+<!-- ⚡ CYBERPUNK HEADER -->
+<!-- =================== -->
 
 <h1 align="center">
-  ⚡ ZAINAB AYAZ ⚡
+  👩‍💻 Zainab Ayaz — Developer
 </h1>
+<h3 align="center">
+  Building Intelligent Systems • AI Explorer • Full-Stack Innovator
+</h3>
 
 <p align="center">
-  <strong>Frontend Developer • Cyberpunk Mindset • Future Builder</strong>
+  <em>“Turning code into cognition.”</em>
 </p>
+
+<!-- =================== -->
+<!-- 🎛️ BRAND ANIMATION -->
+<!-- =================== -->
 
 <p align="center">
-  <em>Code is my language. The web is my canvas.</em>
-</p>
-
-<br/>
-
-<!-- ========================= -->
-<!--   VISUAL ANCHOR           -->
-<!-- ========================= -->
-
-<img
-  align="right"
-  width="380"
-  alt="Cyberpunk Developer"
-  src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif"
-/>
-
-<!-- ========================= -->
-<!--   DIGITAL PERSONA         -->
-<!-- ========================= -->
-
-### 🧠 Digital Persona
-
-I’m a **frontend developer in constant evolution**, focused on building
-interfaces that are **clean, responsive, and intentional**.
-
-I don’t chase hype.  
-I build **strong fundamentals**, sharpen my logic, and grow layer by layer.
-
-I believe:
-- Code should **communicate**, not confuse  
-- Design should **serve the user**, not distract  
-- Growth should be **consistent, not rushed**
-
----
-
-<!-- ========================= -->
-<!--   SKILL MATRIX            -->
-<!-- ========================= -->
-
-### ⚙️ Skill Matrix
-
-> **Core Systems I Work With**
-
-<table>
-  <tr>
-    <td><strong>Structure</strong></td>
-    <td>HTML5 (semantic, accessible layouts)</td>
-  </tr>
-  <tr>
-    <td><strong>Style</strong></td>
-    <td>CSS3 (responsive design, Flexbox, UI precision)</td>
-  </tr>
-  <tr>
-    <td><strong>Logic</strong></td>
-    <td>JavaScript (ES6+, DOM, interactions)</td>
-  </tr>
-</table>
-
-<br/>
-
-<p>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" width="42"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" width="42"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="38"/>
-</p>
-
----
-
-<!-- ========================= -->
-<!--   CURRENT EVOLUTION       -->
-<!-- ========================= -->
-
-### 🧬 Current Evolution
-
-Right now, I’m focused on:
-
-- Strengthening **JavaScript fundamentals**
-- Building **interactive frontend projects**
-- Improving **UI/UX thinking**
-- Preparing for **modern frameworks**
-- Developing a **professional developer mindset**
-
-This phase is about **depth**, not speed.
-
----
-
-<!-- ========================= -->
-<!--   SIGNAL LINKS            -->
-<!-- ========================= -->
-
-### 📡 Signal Links
-
-<p>
-  <a href="https://www.linkedin.com/in/zainab-ayaz-3081482b5/" target="_blank">
-    LinkedIn ↗
-  </a>
-</p>
-
-<p>
   <img
-    src="https://komarev.com/ghpvc/?username=zainabayaz&label=Profile%20Signal&color=ff2cdf&style=flat"
-    alt="profile signal"
+    src="https://raw.githubusercontent.com/zainabayaz/zainabs-portfolio-website/main/public/your-animation.gif"
+    alt="Cyberpunk Tech Animation"
+    width="480"
   />
 </p>
 
 ---
 
-<!-- ========================= -->
-<!--   CLOSING SIGNATURE       -->
-<!-- ========================= -->
+## 🧠 Identity: Who I Am
 
-<hr/>
+I am **Zainab Ayaz** — a **Mind Hacker**, developer, and builder of *intelligent digital systems*.
 
-<p align="center">
-  <strong>
-    “Build quietly. Let the code speak.”  
-  </strong>
+I blend:
+- 💡 **Core logic & systems thinking**
+- 🤖 **AI-inspired experimentation**
+- 🌐 **Full-Stack web innovation**
+
+Not satisfied with “just working.”  
+I want to know *why* it works.  
+I want to know *what it could become in the future.*
+
+---
+
+## 🛠 Core Capabilities
+
+### 🚀 Web & Frontend Intelligence
+- **HTML5:** Semantic, structured markup
+- **CSS3:** Responsive, performance-conscious design
+- **JavaScript:** Modular, interaction-driven logic
+- **UX-Oriented interfaces**
+- **Visual rhythm matched with purpose**
+
+### 🤖 Future-Tech & Smart Systems
+- Conceptual understanding in **AI-inspired logic**
+- Integrating **automation-ready thinking**
+- Alignment toward intelligent workflows & systems thinking
+
+### 🧠 Developer Mindset
+- Systems first, syntax second
+- Elegant logic over fancy gimmicks
+- Learning by building, *adapting by doing*
+- Design with purpose, code with clarity
+
+---
+
+## 🧬 What I’m Building
+
+In my world, the future of code is not static — it’s **adaptive, data-driven, and smart**.
+
+I am currently:
+- Expanding **AI-integrated user experiences**
+- Crafting **Full-Stack logic flows**
+- Exploring experimental systems architecture
+- Merging aesthetic interfaces with intelligent behavior
+
+**No limits. Only evolution.**
+
+---
+
+## 📂 Signature Projects
+
+Some of the ideas and systems I’m working on:
+
+- **Intelligent systems dashboards**
+- AI-ready interfaces
+- Full-stack web platforms with future-forward patterns
+- Interfaces that think with data
+- Novel UI experiences that predict user intent
+
+*(More details available on my live portfolio)*
+
+---
+
+## 🌐 Quick Access
+
+Explore my world here:
+
+📌 **Website:** https://zainabs-portfolio-website.vercel.app/  
+📌 **Portfolio:** your unique projects & dApps interfaces  
+📌 **Code Repositories:** strategic, clean logic building blocks
+
+---
+
+## 📡 Signal & Connect
+
+Stay connected — always online, always evolving:
+
+<p align="left">
+  <a href="https://www.linkedin.com/in/zainab-ayaz-3081482b5/" target="_blank">
+    🔗 LinkedIn
+  </a>
+  |
+  <a href="mailto:zainab@mindhacker.com" target="_blank">
+    📧 Email
+  </a>
 </p>
 
-<p align="center">
-  ⚙️ <em>System online. Learning in progress.</em>
-</p>
+---
+
+## ⚡ Closing Manifesto
+
+> “Build like tomorrow depends on it — because it does.”
+
+I don’t write code for today’s problems —  
+I write it to *explore what’s possible next.*
+
