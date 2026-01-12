@@ -1,110 +1,85 @@
-<h2 align="left">
-Hi 👋! My name is Zainab Ayaz and I'm a Developer & Intelligent Systems Builder, from Pakistan 🇵🇰
-</h2>
+## Hi 👋! I'm Zainab Ayaz  
+**Developer & Intelligent Systems Builder | Pakistan 🇵🇰**
 
 ---
 
-<div align="center">
-  <img
-    src="https://github-readme-stats.vercel.app/api?username=zainabayaz&show_icons=true&theme=dracula"
-    height="150"
-    alt="GitHub stats"
-  />
-  <img
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=zainabayaz&layout=compact&theme=dracula"
-    height="150"
-    alt="Top languages"
-  />
-</div>
+### 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=zainabayaz&show_icons=true&theme=dracula&hide_border=true&cache_seconds=1800" height="160"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=zainabayaz&layout=compact&theme=dracula&hide_border=true&cache_seconds=1800" height="160"/>
+</p>
 
 ---
 
-<img
-  align="right"
-  height="150"
-  src="https://media.giphy.com/media/L8K62iTDkzGX6/giphy.gif"
-  alt="Coding animation"
-/>
-
-## 👩‍💻 Zainab Ayaz — Developer
-### Building Intelligent Systems • AI Explorer • Full-Stack Innovator
+### 👩‍💻 About Me
 
 > *“Turning code into cognition.”*
 
----
+I am **Zainab Ayaz**, a developer focused on building **intelligent digital systems**.
 
-## 🧠 Identity: Who I Am
-
-I am **Zainab Ayaz** — a developer focused on **intelligent digital systems**.
-
-I combine:
-- 💡 Logical & system-level thinking  
+- 💡 Logical & system-level thinker  
 - 🤖 AI-inspired experimentation  
-- 🌐 Full-Stack web development  
+- 🌐 Full-Stack development  
 
 I don’t just write code that works —  
-I write code that **makes sense and evolves**.
+I write code that **evolves**.
 
 ---
 
-## 🛠 Core Capabilities
+### 🛠 Core Capabilities
 
-### 🚀 Web & Frontend
-- HTML5 (semantic, clean structure)
-- CSS3 (responsive UI)
-- JavaScript (modular logic)
+**Web & Frontend**
+- HTML5 (Semantic)
+- CSS3 (Responsive UI)
+- JavaScript (Clean logic)
 - UX-focused interfaces
 
-### 🤖 Smart Systems
-- AI-ready logic thinking
-- Automation-first mindset
+**Smart Systems**
+- AI-ready thinking
+- Automation mindset
 - Scalable workflows
 
-### 🧠 Developer Mindset
+**Mindset**
 - Systems > Syntax  
 - Clarity > Complexity  
-- Build → Learn → Improve  
 
 ---
 
-## 💻 Tech Stack
+### 💻 Tech Stack
 
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="HTML5"/>
-  <img width="10"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" alt="CSS3"/>
-  <img width="10"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="JavaScript"/>
-  <img width="10"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="30" alt="React"/>
-  <img width="10"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="Python"/>
-</div>
+<p align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="32"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="32"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="32"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="32"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="32"/>
+</p>
 
 ---
 
-## 🌐 Quick Access
+### 🌐 Quick Access
 
 - 🌍 **Website:** https://zainabs-portfolio-website.vercel.app  
 - 💼 **LinkedIn:** https://www.linkedin.com/in/zainab-ayaz-3081482b5/  
-- 📧 **Email:** mailto:zainab@mindhacker.com  
+- 📧 **Email:** zainab@mindhacker.com  
 
 ---
 
-## 📡 Connect With Me
+### 📡 Connect With Me
 
-<div align="left">
-  <a href="https://www.linkedin.com/in/zainab-ayaz-3081482b5/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+<p align="left">
+  <a href="https://www.linkedin.com/in/zainab-ayaz-3081482b5/">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin"/>
   </a>
   <a href="mailto:zainab@mindhacker.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail"/>
   </a>
-</div>
+</p>
 
 ---
 
-## ⚡ Closing Manifesto
+### ⚡ Manifesto
 
 > **Build like tomorrow depends on it — because it does.**
 
