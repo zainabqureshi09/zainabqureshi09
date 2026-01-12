@@ -2,18 +2,10 @@
 
 ---
 
-<div align="center">
-  <img
-    src="https://github-readme-stats.vercel.app/api?username=zainabqureshi09&show_icons=true&theme=dracula&cache_seconds=1800"
-    height="150"
-    alt="GitHub Stats"
-  />
-  <img
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=zainabqureshi09&layout=compact&theme=dracula&cache_seconds=1800"
-    height="150"
-    alt="Top Languages"
-  />
-</div>
+
+![Followers](https://img.shields.io/github/followers/zainabqureshi09?style=for-the-badge)
+![Stars](https://img.shields.io/github/stars/zainabqureshi09?style=for-the-badge)
+
 
 ---
 
