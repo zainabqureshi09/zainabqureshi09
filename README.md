@@ -22,24 +22,11 @@
 
 I am **Zainab Ayaz** — a developer and builder of **intelligent digital systems**.
 
-I blend:
-- 💡 Systems thinking & core logic  
-- 🤖 AI-inspired experimentation  
-- 🌐 Full-Stack web development  
 
 I don’t aim for *just working code*.  
 I aim for **understanding, evolution, and intelligence**.
 
 ---
-
-## 🛠 Core Capabilities
-
-### 🚀 Web & Frontend
-- HTML5 (semantic & structured)
-- CSS3 (responsive, clean UI)
-- JavaScript (modular logic)
-- UX-focused interfaces
-
 ### 🤖 Smart Systems
 - AI-ready logic design
 - Automation-driven thinking
