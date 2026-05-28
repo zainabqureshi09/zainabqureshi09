@@ -1,32 +1,30 @@
 <div align="center">
 
-<!-- ████████████████████████████████████████████████ -->
-<!--              CINEMATIC HEADER BANNER             -->
-<!-- ████████████████████████████████████████████████ -->
+<!-- ============================================================ -->
+<!--                    HEADER BANNER                            -->
+<!-- ============================================================ -->
 
-[![header](https://capsule-render.vercel.app/api?type=venom&color=gradient&customColorList=0,2,2,5,30&height=280&section=header&text=ZAINAB%20AYAZ&fontSize=80&fontColor=fff&fontAlignY=40&stroke=00f5d4&strokeWidth=2&desc=◈%20Developer%20%20◈%20AI%20Architect%20%20◈%20Intelligent%20Systems%20Builder&descAlignY=62&descSize=16&descColor=00f5d4&animation=scaleIn&rotate=0)](https://github.com/zainabqureshi09)
+[![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,2,5,30&height=260&section=header&text=ZAINAB%20AYAZ&fontSize=75&fontColor=ffffff&fontAlignY=38&stroke=00f5d4&strokeWidth=2&desc=Developer%20%E2%97%88%20AI%20Architect%20%E2%97%88%20Intelligent%20Systems%20Builder&descAlignY=58&descSize=17&descColor=00f5d4&animation=fadeIn)](https://github.com/zainabqureshi09)
 
-<!-- TYPING ANIMATION — MULTI-LINE CINEMATIC -->
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=800&size=20&duration=2500&pause=600&color=00F5D4&center=true&vCenter=true&multiline=true&repeat=true&width=700&height=90&lines=↳+Turning+code+into+cognition+%7C+Pakistan+%F0%9F%87%B5%F0%9F%87%B0;↳+LLMs+%7C+Agentic+Systems+%7C+Full-Stack+Engineering;↳+Systems+%3E+Syntax.+Logic+%3E+Noise.+Build+%E2%86%92+Learn+%E2%86%92+Evolve)](https://github.com/zainabqureshi09)
+<!-- TYPING ANIMATION -->
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=800&size=18&duration=2500&pause=700&color=00F5D4&center=true&vCenter=true&multiline=true&repeat=true&width=650&height=80&lines=Turning+code+into+cognition+%F0%9F%A7%A0+%7C+Pakistan+%F0%9F%87%B5%F0%9F%87%B0;LLMs+%7C+Agentic+Systems+%7C+Full-Stack+Engineering;Systems+%3E+Syntax.+Logic+%3E+Noise.+Build+%E2%86%92+Evolve)](https://github.com/zainabqureshi09)
 
 <br/>
 
-<!-- DYNAMIC BADGES ROW -->
-[![](https://visitcount.itsvg.in/api?id=zainabqureshi09&label=Profile%20Views&color=12&icon=6&pretty=true)](https://visitcount.itsvg.in)
-&nbsp;&nbsp;
-![Followers](https://img.shields.io/github/followers/zainabqureshi09?style=flat-square&color=00f5d4&labelColor=0d1117&label=Followers&logo=github)
-&nbsp;&nbsp;
-![Stars](https://img.shields.io/github/stars/zainabqureshi09?style=flat-square&color=f72585&labelColor=0d1117&label=Stars&logo=github)
-&nbsp;&nbsp;
-![Last Commit](https://img.shields.io/github/last-commit/zainabqureshi09/zainabqureshi09?style=flat-square&color=7209b7&labelColor=0d1117&label=Last+Active&logo=git)
+<!-- BADGES -->
+[![Profile Views](https://komarev.com/ghpvc/?username=zainabqureshi09&style=for-the-badge&color=00f5d4&label=PROFILE+VIEWS)](https://github.com/zainabqureshi09)
+&nbsp;
+[![Followers](https://img.shields.io/github/followers/zainabqureshi09?style=for-the-badge&color=f72585&labelColor=0d1117&label=FOLLOWERS&logo=github&logoColor=white)](https://github.com/zainabqureshi09?tab=followers)
+&nbsp;
+[![Stars](https://img.shields.io/github/stars/zainabqureshi09?style=for-the-badge&color=7209b7&labelColor=0d1117&label=STARS&logo=github&logoColor=white)](https://github.com/zainabqureshi09)
 
 </div>
 
 <br/>
 
-<!-- ████████████████████████████████████████████████ -->
-<!--                  TERMINAL ABOUT ME              -->
-<!-- ████████████████████████████████████████████████ -->
+<!-- ============================================================ -->
+<!--                    TERMINAL ABOUT ME                        -->
+<!-- ============================================================ -->
 
 ```zsh
 ╔══════════════════════════════════════════════════════════════════╗
@@ -46,17 +44,17 @@
 
 <table>
 <tr>
-<td width="55%">
+<td width="55%" valign="top">
 
 ### ◈ What I'm Building
 
-- 🧠 **Agentic AI Systems** — LLMs that plan, reason, and act autonomously
+- 🧠 **Agentic AI Systems** — LLMs that plan, reason & act autonomously
 - ⚙️ **Intelligent Automation** — workflows that think, not just execute
 - 🌐 **Full-Stack Products** — from pixel to protocol, end to end
 - 📡 **AI-Powered Interfaces** — where UX meets machine intelligence
 - 🔬 **ML Pipelines** — PyTorch · TensorFlow · Scikit-Learn in production
 
-### ◈ Current Explorations
+### ◈ Currently Exploring
 
 ```python
 current_obsessions = [
@@ -68,17 +66,17 @@ current_obsessions = [
 ```
 
 </td>
-<td width="45%" align="center">
+<td width="45%" align="center" valign="top">
 
-<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="300" alt="coding gif" />
+<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="290" alt="coding" />
 
-<br/>
+<br/><br/>
 
 > *"Systems > Syntax.*
 > *Logic > Noise.*
 > *Ship > Perfect."*
 >
-> — Zainab Ayaz
+> **— Zainab Ayaz**
 
 </td>
 </tr>
@@ -88,21 +86,22 @@ current_obsessions = [
 
 ---
 
-<!-- ████████████████████████████████████████████████ -->
-<!--                  TECH STACK                     -->
-<!-- ████████████████████████████████████████████████ -->
+<!-- ============================================================ -->
+<!--                       TECH STACK                            -->
+<!-- ============================================================ -->
 
 <div align="center">
 
-### ⬡ Tech Arsenal
+### ◈ Tech Arsenal
 
-[![skill](https://skillicons.dev/icons?i=cpp,c,python,ts,js,go,java,php,ruby&perline=9&theme=dark)](https://skillicons.dev)
+[![Skills](https://skillicons.dev/icons?i=cpp,c,python,ts,js,go,java,php,ruby,react,nextjs,tailwind,threejs,vite,nodejs,nestjs,django,mongodb,postgres,mysql,prisma,pytorch,tensorflow,opencv,docker,aws,gcp,azure,vercel,figma&perline=10&theme=dark)](https://skillicons.dev)
 
 </div>
 
-<details open>
-<summary><b>◈ Languages</b></summary>
 <br/>
+
+<details open>
+<summary><b>◈ Languages</b></summary><br/>
 
 ![C++](https://img.shields.io/badge/C++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 ![C](https://img.shields.io/badge/C-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
@@ -117,8 +116,7 @@ current_obsessions = [
 </details>
 
 <details>
-<summary><b>◈ Frontend</b></summary>
-<br/>
+<summary><b>◈ Frontend</b></summary><br/>
 
 ![React](https://img.shields.io/badge/React-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
 ![Next.js](https://img.shields.io/badge/Next.js-black?style=for-the-badge&logo=next.js&logoColor=white)
@@ -132,8 +130,7 @@ current_obsessions = [
 </details>
 
 <details>
-<summary><b>◈ Backend & Databases</b></summary>
-<br/>
+<summary><b>◈ Backend & Databases</b></summary><br/>
 
 ![Node.js](https://img.shields.io/badge/Node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
 ![NestJS](https://img.shields.io/badge/NestJS-%23E0234E.svg?style=for-the-badge&logo=nestjs&logoColor=white)
@@ -148,8 +145,7 @@ current_obsessions = [
 </details>
 
 <details>
-<summary><b>◈ AI & Data Science</b></summary>
-<br/>
+<summary><b>◈ AI & Data Science</b></summary><br/>
 
 ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white)
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white)
@@ -157,17 +153,15 @@ current_obsessions = [
 ![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8.svg?style=for-the-badge&logo=opencv&logoColor=white)
 ![NumPy](https://img.shields.io/badge/NumPy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)
 ![Pandas](https://img.shields.io/badge/Pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
-![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white)
 ![HuggingFace](https://img.shields.io/badge/HuggingFace-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black)
 
 </details>
 
 <details>
-<summary><b>◈ Cloud & DevOps</b></summary>
-<br/>
+<summary><b>◈ Cloud & DevOps</b></summary><br/>
 
 ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
-![Google Cloud](https://img.shields.io/badge/GCP-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white)
+![GCP](https://img.shields.io/badge/GCP-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white)
 ![Azure](https://img.shields.io/badge/Azure-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white)
 ![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=Cloudflare&logoColor=white)
 ![Vercel](https://img.shields.io/badge/Vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white)
@@ -181,9 +175,9 @@ current_obsessions = [
 
 ---
 
-<!-- ████████████████████████████████████████████████ -->
-<!--              GITHUB STATS — FULL SUITE          -->
-<!-- ████████████████████████████████████████████████ -->
+<!-- ============================================================ -->
+<!--                    GITHUB STATS                             -->
+<!-- ============================================================ -->
 
 <div align="center">
 
@@ -191,14 +185,12 @@ current_obsessions = [
 
 <br/>
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=zainabqureshi09&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00f5d4&icon_color=f72585&text_color=ffffff&include_all_commits=true&count_private=true&rank_icon=percentile" />
-<img height="180em" src="https://nirzak-streak-stats.vercel.app/?user=zainabqureshi09&theme=tokyonight&hide_border=true&background=0d1117&ring=00f5d4&fire=f72585&currStreakLabel=00f5d4&sideLabels=ffffff&dates=888888" />
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=zainabqureshi09&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00f5d4&icon_color=f72585&text_color=ffffff&include_all_commits=true&count_private=true" alt="Zainab's GitHub Stats" />
+<img width="49%" src="https://streak-stats.demolab.com?user=zainabqureshi09&theme=tokyonight&hide_border=true&background=0d1117&ring=00f5d4&fire=f72585&currStreakLabel=00f5d4&sideLabels=ffffff&dates=888888" alt="Zainab's Streak" />
 
-<br/>
+<br/><br/>
 
-<img height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=zainabqureshi09&layout=donut-vertical&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00f5d4&text_color=ffffff&langs_count=10&hide=html,css" />
-&nbsp;&nbsp;&nbsp;
-<img height="200em" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=zainabqureshi09&theme=tokyonight&utcOffset=5" />
+<img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=zainabqureshi09&layout=donut&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00f5d4&text_color=ffffff&langs_count=8" alt="Top Languages" />
 
 </div>
 
@@ -206,15 +198,15 @@ current_obsessions = [
 
 ---
 
-<!-- ████████████████████████████████████████████████ -->
-<!--             CONTRIBUTION GRAPH                  -->
-<!-- ████████████████████████████████████████████████ -->
+<!-- ============================================================ -->
+<!--                  CONTRIBUTION GRAPH                         -->
+<!-- ============================================================ -->
 
 <div align="center">
 
-### ◈ Contribution Map
+### ◈ Neural Activity Map
 
-[![Zainab's Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=zainabqureshi09&bg_color=0d1117&color=00f5d4&line=f72585&point=00f5d4&area=true&area_color=00f5d420&hide_border=true&custom_title=Zainab's%20Neural%20Activity%20Graph&radius=6)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=zainabqureshi09&bg_color=0d1117&color=00f5d4&line=f72585&point=ffffff&area=true&hide_border=true&custom_title=Zainab%27s%20Contribution%20Graph)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 </div>
 
@@ -222,9 +214,9 @@ current_obsessions = [
 
 ---
 
-<!-- ████████████████████████████████████████████████ -->
-<!--                 SNAKE ANIMATION                 -->
-<!-- ████████████████████████████████████████████████ -->
+<!-- ============================================================ -->
+<!--                    SNAKE ANIMATION                          -->
+<!-- ============================================================ -->
 
 <div align="center">
 
@@ -233,10 +225,10 @@ current_obsessions = [
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/zainabqureshi09/zainabqureshi09/output/github-snake-dark.svg" />
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/zainabqureshi09/zainabqureshi09/output/github-snake.svg" />
-  <img alt="github contribution snake" src="https://raw.githubusercontent.com/zainabqureshi09/zainabqureshi09/output/github-snake-dark.svg" />
+  <img alt="github snake animation" src="https://raw.githubusercontent.com/zainabqureshi09/zainabqureshi09/output/github-snake-dark.svg" width="100%" />
 </picture>
 
-<sub>⚙️ Activate via <a href="https://github.com/Platane/snk">GitHub Actions snake workflow</a> — add it to your profile repo's <code>.github/workflows/snake.yml</code></sub>
+> 💡 Run the **snake GitHub Action** below to generate the SVG — it will appear here automatically.
 
 </div>
 
@@ -244,15 +236,15 @@ current_obsessions = [
 
 ---
 
-<!-- ████████████████████████████████████████████████ -->
-<!--                   TROPHIES                      -->
-<!-- ████████████████████████████████████████████████ -->
+<!-- ============================================================ -->
+<!--                      TROPHIES                               -->
+<!-- ============================================================ -->
 
 <div align="center">
 
 ### ◈ GitHub Trophies
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=zainabqureshi09&theme=matrix&no-frame=true&no-bg=true&column=7&margin-w=6&margin-h=6)](https://github.com/ryo-ma/github-profile-trophy)
+[![Trophies](https://github-profile-trophy.vercel.app/?username=zainabqureshi09&theme=tokyonight&no-frame=false&no-bg=false&margin-w=10&row=2&column=4)](https://github.com/ryo-ma/github-profile-trophy)
 
 </div>
 
@@ -260,65 +252,9 @@ current_obsessions = [
 
 ---
 
-<!-- ████████████████████████████████████████████████ -->
-<!--              WAKA / METRICS SECTION             -->
-<!-- ████████████████████████████████████████████████ -->
-
-<div align="center">
-
-### ◈ Weekly Dev Breakdown
-
-```text
-💬 Programming Languages Used This Week (auto-updated via WakaTime)
-─────────────────────────────────────────────────────
-TypeScript   ████████████░░░░░░░░░   48.3%
-Python       ██████░░░░░░░░░░░░░░░   24.1%
-Go           ████░░░░░░░░░░░░░░░░░   14.7%
-JavaScript   ██░░░░░░░░░░░░░░░░░░░    8.6%
-Other        █░░░░░░░░░░░░░░░░░░░░    4.3%
-─────────────────────────────────────────────────────
-⏱️  Connect WakaTime → https://wakatime.com/@zainabqureshi09
-```
-
-</div>
-
-<br/>
-
----
-
-<!-- ████████████████████████████████████████████████ -->
-<!--              CONNECT / SOCIALS                  -->
-<!-- ████████████████████████████████████████████████ -->
-
-<div align="center">
-
-### ◈ Find Me in the Wild
-
-<br/>
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/zainab.tsx)
-[![X](https://img.shields.io/badge/X-000000.svg?style=for-the-badge&logo=X&logoColor=white)](https://x.com/zainab_0x7)
-[![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white)](https://youtube.com/@codewithzaina)
-[![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@zainab.tsx)
-[![Bluesky](https://img.shields.io/badge/Bluesky-0285FF?style=for-the-badge&logo=bluesky&logoColor=white)](https://bsky.app/profile/zainab0x7.bsky.social)
-
-<br/>
-
-[![Behance](https://img.shields.io/badge/Behance-1769FF?style=for-the-badge&logo=behance&logoColor=white)](https://behance.net/zainabqureshi6)
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://instagram.com/zainab.tsx)
-[![CodePen](https://img.shields.io/badge/CodePen-000000?style=for-the-badge&logo=codepen&logoColor=white)](https://codepen.io/zainabqureshi09)
-[![Stack Overflow](https://img.shields.io/badge/Stack%20Overflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/T0941NTDJ79/C0941NTPAK1)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:zainab.cyber.dev@gmail.com)
-
-</div>
-
-<br/>
-
----
-
-<!-- ████████████████████████████████████████████████ -->
-<!--              RANDOM DEV QUOTE                   -->
-<!-- ████████████████████████████████████████████████ -->
+<!-- ============================================================ -->
+<!--                   DEV QUOTE                                 -->
+<!-- ============================================================ -->
 
 <div align="center">
 
@@ -332,16 +268,39 @@ Other        █░░░░░░░░░░░░░░░░░░░░    
 
 ---
 
-<!-- ████████████████████████████████████████████████ -->
-<!--                 FOOTER WAVE                     -->
-<!-- ████████████████████████████████████████████████ -->
-
-[![footer](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,2,5,30&height=140&section=footer&text=Thanks%20for%20visiting!%20%20◈%20%20Let%27s%20build%20something%20extraordinary.&fontSize=16&fontColor=00f5d4&fontAlignY=65&animation=fadeIn)](https://github.com/zainabqureshi09)
+<!-- ============================================================ -->
+<!--                      SOCIALS                                -->
+<!-- ============================================================ -->
 
 <div align="center">
-<sub>
-  ⚡ Engineered with precision by <strong>Zainab Ayaz</strong> &nbsp;—&nbsp; Karachi, Pakistan 🇵🇰
-  <br/>
-  <sub>Last updated: auto-synced via GitHub Actions</sub>
-</sub>
+
+### ◈ Find Me Around the Web
+
+<br/>
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/zainab.tsx)
+[![X](https://img.shields.io/badge/X-000000.svg?style=for-the-badge&logo=X&logoColor=white)](https://x.com/zainab_0x7)
+[![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white)](https://youtube.com/@codewithzaina)
+[![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@zainab.tsx)
+[![Bluesky](https://img.shields.io/badge/Bluesky-0285FF?style=for-the-badge&logo=bluesky&logoColor=white)](https://bsky.app/profile/zainab0x7.bsky.social)
+[![Behance](https://img.shields.io/badge/Behance-1769FF?style=for-the-badge&logo=behance&logoColor=white)](https://behance.net/zainabqureshi6)
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://instagram.com/zainab.tsx)
+[![CodePen](https://img.shields.io/badge/CodePen-000000?style=for-the-badge&logo=codepen&logoColor=white)](https://codepen.io/zainabqureshi09)
+[![Stack Overflow](https://img.shields.io/badge/Stack%20Overflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/T0941NTDJ79/C0941NTPAK1)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:zainab.cyber.dev@gmail.com)
+
+</div>
+
+<br/>
+
+---
+
+<!-- ============================================================ -->
+<!--                    FOOTER                                   -->
+<!-- ============================================================ -->
+
+[![footer](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,2,5,30&height=130&section=footer&text=Thanks%20for%20visiting!%20%E2%97%88%20Let%27s%20build%20something%20extraordinary.&fontSize=15&fontColor=00f5d4&fontAlignY=65&animation=fadeIn)](https://github.com/zainabqureshi09)
+
+<div align="center">
+<sub>⚡ Engineered with precision by <strong>Zainab Ayaz</strong> — Karachi, Pakistan 🇵🇰</sub>
 </div>
